@@ -97,3 +97,10 @@ button:focus {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+
+.github-cat {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 100;
+}
